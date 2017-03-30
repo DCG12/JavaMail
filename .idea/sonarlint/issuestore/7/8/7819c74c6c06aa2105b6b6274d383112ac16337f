@@ -1,0 +1,18 @@
+
+O
+squid:S106";Replace this usage of System.out or System.err by a logger.(§¸ÅÒ
+O
+squid:S106";Replace this usage of System.out or System.err by a logger.(î‹ò°
+Rsquid:S1197"8Move the array designator from the variable to the type.(Ë×éƒşÿÿÿÿ
+O
+squid:S106";Replace this usage of System.out or System.err by a logger.(³€¡Ş
+¾%squid:RedundantThrowsDeclarationCheck"‰Remove the declaration of thrown exception 'javax.mail.internet.AddressException' which is a subclass of 'javax.mail.MessagingException'.(Ë×éƒşÿÿÿÿ
+T
+squid:S106";Replace this usage of System.out or System.err by a logger.(Ä˜äÄÿÿÿÿÿ
+¦squid:S1160"‹Refactor this method to throw at most one checked exception instead of: javax.mail.internet.AddressException, javax.mail.MessagingException(Ğõ³¨ıÿÿÿÿ
+T
+squid:S106";Replace this usage of System.out or System.err by a logger.(Ñ‚Ÿ×ûÿÿÿÿ
+¾%squid:RedundantThrowsDeclarationCheck"‰Remove the declaration of thrown exception 'javax.mail.internet.AddressException' which is a subclass of 'javax.mail.MessagingException'.(Ğõ³¨ıÿÿÿÿ
+Osquid:S1118":Add a private constructor to hide the implicit public one.(Îë‡Ã
+O
+squid:S106";Replace this usage of System.out or System.err by a logger.(Œ¹ï
